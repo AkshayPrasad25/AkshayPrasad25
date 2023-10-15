@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 👨‍💻 All of my projects are available at [akshayprasad11.netlify.app](akshayprasad11.netlify.app)
+- 👨‍💻 All of my projects are available at [https://akshayprasad11.netlify.app](akshayprasad11.netlify.app)
 
 - 📫 How to reach me **akshayprasad510@gmail.com**
 
