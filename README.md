@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **akshayprasad510@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1VfKWvw7CTRUus1lQPjKhM8a2kat-4WKQ/view?usp=sharing)]([https://drive.google.com/file/d/1q9oPFxscYaAgwt0eFe6Cb0nN20Hdw7rb/view?usp=sharing](https://drive.google.com/file/d/1VfKWvw7CTRUus1lQPjKhM8a2kat-4WKQ/view?usp=sharing))
-
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1VfKWvw7CTRUus1lQPjKhM8a2kat-4WKQ/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay-prasad-1aa970247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-prasad-1aa970247" height="30" width="40" /></a>
