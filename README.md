@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Web developer</h3>
-<img align="right" width="350" src="https://media.tenor.com/b2Nda1u8khYAAAAC/type-cat.gif"><br><br/>
+<img align="right" width="350" src="https://media.tenor.com/b2Nda1u8khYAAAAC/type-cat.gif"><br></br>
 
 - 🌱 I’m currently learning **Vue.js**
 
