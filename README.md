@@ -24,4 +24,4 @@
 
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayprasad25&show_icons=true&locale=en&layout=compact" alt="akshayprasad25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayprasad25&" alt="akshayprasad25" /></p>
+<p><img align="center" width="550" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=akshayprasad25&" alt="akshayprasad25" /></p>
