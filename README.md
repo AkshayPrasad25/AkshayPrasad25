@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" width="350" src="https://media.tenor.com/b2Nda1u8khYAAAAC/type-cat.gif"><br><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayprasad25&label=Profile%20views&color=0e75b6&style=flat" alt="akshayprasad25" /> </p>
-
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://akshayprasad11.netlify.app/](https://akshayprasad11.netlify.app/)
