@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Web developer</h3>
-<img align="right" alt="coding" width="350" style="margin-top: -20px;" src="https://media.tenor.com/b2Nda1u8khYAAAAC/type-cat.gif">
+<img align="right" width="350" style="margin-top: -20px; border-radius: 14px;" src="https://media.tenor.com/b2Nda1u8khYAAAAC/type-cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayprasad25&label=Profile%20views&color=0e75b6&style=flat" alt="akshayprasad25" /> </p>
 
