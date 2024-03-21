@@ -1,4 +1,4 @@
-## Hi, there! I'm Akshay.
+## Hi there! I'm Akshay.
 <p align="left">I'm a web developer based in Bangalore, India, specializing in React, Node.js, and Express.js. With a solid understanding of JavaScript and MySQL, I prioritize user-centric web development. Proficient in Git and Google Cloud, I ensure the delivery of high-quality, scalable projects.
 </p>
 
