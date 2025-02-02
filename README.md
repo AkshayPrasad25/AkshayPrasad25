@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-.NET Core-563D7C?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=white" height="30"/>
 </p>
 
 ## Skills
@@ -20,6 +22,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Github Actions-27a444?style=for-the-badge&logo=githubactions&logoColor=white" height="25"/>
 </p>
 
 ## Contacts
