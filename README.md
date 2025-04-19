@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Github Actions-27a444?style=for-the-badge&logo=githubactions&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Rancher-blue?style=for-the-badge&logo=rancher&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Helm-black?style=for-the-badge&logo=helm&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
 </p>
 
 ## Contacts
